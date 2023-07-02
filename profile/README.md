@@ -1,7 +1,5 @@
 ## Web Landify
 
-![Web Landify Logo](https://avatars.githubusercontent.com/u/135089460?s=200&v=4)
-
 Web Landify is a powerful landing page maker that empowers you to create captivating web pages without any coding. With our intuitive and user-friendly interface, you can easily build custom landing pages that are perfect for product launches, marketing campaigns, and events.
 
 ### Key Features
